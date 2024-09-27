@@ -1,7 +1,4 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
 User-agent: *
 Allow: /
 
-Sitemap: https://zonwear.pages.dev/sitemap.xml
+Sitemap: https://camilla-araujo.pages.dev/sitemap.xml
